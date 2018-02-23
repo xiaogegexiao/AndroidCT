@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidCT</string>
+
+    <string name="label_price">Average price: $%.2f</string>
+    <string name="label_rating">Rating: %d</string>
+</resources>
